@@ -1,2 +1,2 @@
-# Capstone-Project-Course
+# Capstone Project Course
 Used for the capstone project
